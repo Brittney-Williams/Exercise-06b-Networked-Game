@@ -6,9 +6,9 @@
 script = ExtResource( 1 )
 
 [node name="Host" type="Button" parent="."]
-margin_left = 332.5
+margin_left = 333.5
 margin_top = 138.75
-margin_right = 714.5
+margin_right = 715.5
 margin_bottom = 218.75
 text = "Host"
 __meta__ = {
